@@ -1,3 +1,5 @@
+//Sirve como el punto de entrada que renderiza App dentro del DOM HTML.
+
 // 1. Importa la librería principal de React para manejar componentes y JSX
 import React from 'react';
 // 2. Importa la herramienta de React 18+ para conectar la app con el navegador (DOM)
